@@ -64,12 +64,14 @@
       - { name: kobito }
       - { name: macdown }
       - { name: pycharm }
+      - { name: seil }
       - { name: sourcetree }
       - { name: skitch }
       - { name: seashore }
       - { name: vagrant }
       - { name: virtualbox }
       - { name: xtrafinder }
+      - { name: 1password }
 
   tasks:
     - name: homebrew の tap リポジトリを追加

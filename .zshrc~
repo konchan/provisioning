@@ -140,8 +140,3 @@ export PYTHONPATH=/usr/local/lib/python2.7/site-packages:$PYTHONPATH
 export PATH=/Users/katsuyuki/torch/install/bin:$PATH  # Added automatically by torch-dist
 export LD_LIBRARY_PATH=/Users/katsuyuki/torch/install/lib:$LD_LIBRARY_PATH  # Added automatically by torch-dist
 export DYLD_LIBRARY_PATH=/Users/katsuyuki/torch/install/lib:$DYLD_LIBRARY_PATH  # Added automatically by torch-dist
-
-if [ -f `brew --prefix`/etc/autojump ]; then
-  . `brew --prefix`/etc/autojump
-fi
-
