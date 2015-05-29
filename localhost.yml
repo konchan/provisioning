@@ -47,6 +47,12 @@
       - { name: autojump }
       - { name: gibo }
       - { name: source-highlight }
+      - { name: libvorbis }
+      - { name: libvpx }
+      - { name: eigen }
+      - { name: jasper }
+      - { name: tbb }
+      - { name: qt }
     homebrew_cask_packages:
       - { name: adobe-reader }
       - { name: atom }
