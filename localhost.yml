@@ -75,6 +75,7 @@
       - { name: sourcetree }
       - { name: skitch }
       - { name: seashore }
+      - { name: tripmode }
       - { name: vagrant }
       - { name: virtualbox }
       - { name: xtrafinder }
