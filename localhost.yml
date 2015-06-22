@@ -54,6 +54,7 @@
       - { name: jasper }
       - { name: tbb }
       - { name: qt }
+      - { name: awscli }
     homebrew_cask_packages:
       - { name: adobe-reader }
       - { name: atom }
