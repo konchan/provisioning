@@ -61,6 +61,7 @@
       - { name: dropbox }
       - { name: evernote }
       - { name: firefox }
+      - { name: github }
       - { name: gitx }
       - { name: google-chrome }
       - { name: google-drive }
