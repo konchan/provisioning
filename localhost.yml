@@ -55,11 +55,13 @@
       - { name: tbb }
       - { name: qt }
       - { name: awscli }
+      - { name: maven }
     homebrew_cask_packages:
       - { name: adobe-reader }
       - { name: atom }
       - { name: dropbox }
       - { name: evernote }
+      - { name: eclipse-platform }
       - { name: firefox }
       - { name: github }
       - { name: gitx }
