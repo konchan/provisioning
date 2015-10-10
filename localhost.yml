@@ -56,6 +56,7 @@
       - { name: qt }
       - { name: awscli }
       - { name: maven }
+      - { name: ant }
       - { name: ivy }
     homebrew_cask_packages:
       - { name: adobe-reader }
